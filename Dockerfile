@@ -1,3 +1,0 @@
-FROM Node
-
-CMD ['node']
